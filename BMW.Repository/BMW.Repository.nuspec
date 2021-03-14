@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>2.0.1</version>
+    <title>BMW Tools</title>
+    <authors>gongzhiwei</authors>
+    <owners>gongzhiwei</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Bmw tools</description>
+    <releaseNotes>Bmw tools of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Bmw tools</tags>
+  </metadata>
+</package>

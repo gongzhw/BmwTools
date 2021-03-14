@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/BMW.Frameworks/bin
+/.vs
+/packages
+/dll
+/BMW.Repository/bin
+/BMW.Repository/obj
+/BMW.Frameworks/obj
